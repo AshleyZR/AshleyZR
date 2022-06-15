@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ziyu (Ashley) Ren
-- 👀 I’m interested in psycholinguistics (specifically, how do we read and how do we type) and language learning technology
+- 👀 I’m interested in psycholinguistics (specifically, how do we read and how do we type) and language learning technologies
 - 🌱 I’m currently learning psychology and data science at UChicago
 - 📫 How to reach me: ziyuren@uchicago.edu
 - 📲 This is my LinkedIn profile: www.linkedin.com/in/ziyuren
