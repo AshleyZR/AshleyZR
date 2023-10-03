@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ziyu (Ashley) Ren
-- 👀 I’m interested in educational technology and human-computer interaction. I hope to complete a PhD in educational technology
+- 👀 I’m interested in language and decision-making. I want to pursue a PhD in management/organizational behavior.
 - 🌱 I’m currently learning psychology and data science at UChicago
 - 📫 How to reach me: ziyuren@uchicago.edu
 - 📲 This is my LinkedIn profile: www.linkedin.com/in/ziyuren
+- 👩🏻‍💻 This is my personal website: ziyuren.com
 
 <!---
 AshleyZR/AshleyZR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
